@@ -1,1 +1,1 @@
-bot: python auto-updater.py
+bot: python fortnite_update.py
